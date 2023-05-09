@@ -1,0 +1,5 @@
+[tool]
+id = "healthmvn"
+
+[[dependency]]
+path = "/home/isurus/open-healthcare/Ballerina/Tools/BALA/healthmvn/resources/healthmvn-0.1.0.jar"
